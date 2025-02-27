@@ -29,9 +29,6 @@ A utility company wanted to predict electricity demand accurately to optimize po
 - Helped the utility company optimize energy distribution.
 - Reduced operational costs and prevented power shortages.
 
-## 📂 Project Files
-- **Dataset**: `TimeSeries_TotalSolarGen_and_Load_IT_2016.csv` 📄
-- **Jupyter Notebook**: `Use Case 1 - Energy Demand Forecasting using ARIMA.ipynb` 📒
 
 ## 🚀 Technologies Used
 - Python 🐍
@@ -41,22 +38,5 @@ A utility company wanted to predict electricity demand accurately to optimize po
 - Prophet 🔮
 - DeepAR 🤖
 
-## 🔧 Installation & Usage
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/your-repo-link.git
-   cd energy-demand-forecasting
-   ```
-2. Install dependencies:
-   ```bash
-   pip install pandas matplotlib statsmodels fbprophet torch
-   ```
-3. Open Jupyter Notebook and run `Use Case 1 - Energy Demand Forecasting using ARIMA.ipynb`.
 
-## 📩 Contact
-For any queries, feel free to reach out via **[LinkedIn](https://www.linkedin.com/in/ishank-khare/)** or **[GitHub](https://github.com/your-profile)**.
-
----
-### 📜 License
-This project is open-source and available under the **MIT License**.
 
